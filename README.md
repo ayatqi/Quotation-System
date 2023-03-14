@@ -51,19 +51,3 @@ Type the following command and press enter to run the server
 python manage.py runserver
 ```
 
-### To log in as each role use the following Id and Password: 
-Customer- 
-        ```Username- ayat
-        Password- ayat1234```
-
-Salesman-
-        ```Username- ayaan
-        Password- software01```
-
-Manager-
-        ```Username- roha
-        Password- roha1234```
-
-Finance Officer-
-        ```Username- salah
-        Password- sal12345```
